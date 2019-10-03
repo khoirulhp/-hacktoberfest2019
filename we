@@ -1,0 +1,9 @@
+<html>
+<body>
+
+<?php
+echo "My first script!";
+?>
+
+</body>
+</html>
